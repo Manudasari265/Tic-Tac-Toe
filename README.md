@@ -1,1 +1,1 @@
-# Tic-Tac-Toe(FrontEnd Web Application)
+# Tic-Tac-Toe(Front-End Web Application)
